@@ -1,0 +1,11 @@
+C:\Users\1025308\source\repos\AbtrasctVsStatic\AbtrasctVsStatic\bin\Debug\netcoreapp2.1\AbtrasctVsStatic.deps.json
+C:\Users\1025308\source\repos\AbtrasctVsStatic\AbtrasctVsStatic\bin\Debug\netcoreapp2.1\AbtrasctVsStatic.runtimeconfig.json
+C:\Users\1025308\source\repos\AbtrasctVsStatic\AbtrasctVsStatic\bin\Debug\netcoreapp2.1\AbtrasctVsStatic.runtimeconfig.dev.json
+C:\Users\1025308\source\repos\AbtrasctVsStatic\AbtrasctVsStatic\bin\Debug\netcoreapp2.1\AbtrasctVsStatic.dll
+C:\Users\1025308\source\repos\AbtrasctVsStatic\AbtrasctVsStatic\bin\Debug\netcoreapp2.1\AbtrasctVsStatic.pdb
+C:\Users\1025308\source\repos\AbtrasctVsStatic\AbtrasctVsStatic\obj\Debug\netcoreapp2.1\AbtrasctVsStatic.csprojAssemblyReference.cache
+C:\Users\1025308\source\repos\AbtrasctVsStatic\AbtrasctVsStatic\obj\Debug\netcoreapp2.1\AbtrasctVsStatic.csproj.CoreCompileInputs.cache
+C:\Users\1025308\source\repos\AbtrasctVsStatic\AbtrasctVsStatic\obj\Debug\netcoreapp2.1\AbtrasctVsStatic.AssemblyInfoInputs.cache
+C:\Users\1025308\source\repos\AbtrasctVsStatic\AbtrasctVsStatic\obj\Debug\netcoreapp2.1\AbtrasctVsStatic.AssemblyInfo.cs
+C:\Users\1025308\source\repos\AbtrasctVsStatic\AbtrasctVsStatic\obj\Debug\netcoreapp2.1\AbtrasctVsStatic.dll
+C:\Users\1025308\source\repos\AbtrasctVsStatic\AbtrasctVsStatic\obj\Debug\netcoreapp2.1\AbtrasctVsStatic.pdb
